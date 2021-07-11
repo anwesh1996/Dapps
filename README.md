@@ -1,2 +1,2 @@
 # Dapps
-All sample decentralized applications, built on Ethereum blockchain
+Sample decentralized applications, built on Ethereum blockchain
